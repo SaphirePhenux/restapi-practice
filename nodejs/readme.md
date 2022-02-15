@@ -1,0 +1,27 @@
+# Node JS Rest API Practice
+
+## Node JS Practice and Tutorial Sources
+
+* [make rest api with node js - Google Search](https://www.google.com/search?q=make+rest+api+with+node+js&rlz=1C1GCEA_enUS900US900&oq=make+restapi+with+node&aqs=chrome.1.69i57j0i22i30l4j69i64l3.10810j0j1&sourceid=chrome&ie=UTF-8)
+  * [How to Create a Simple REST API using TypeScript and Node.js](https://www.section.io/engineering-education/how-to-create-a-simple-rest-api-using-typescript-and-nodejs/)
+  * [Build Node.js RESTful APIs in 10 Minutes | Codementor](https://www.codementor.io/@olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
+  * [Creating a Secure REST API in Node.js | Toptal](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
+  * [Node.js - RESTful API - Tutorialspoint](https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm)
+  * [How To Build and Test a Node.js REST API with Express on ...](https://www.section.io/engineering-education/building-a-basic-api-with-nodejs/)
+  * [How to Build REST API with Node.js from Scratch | Edureka](https://www.edureka.co/blog/rest-api-with-node-js/)
+* [building rest api with node.js and mysql - Google Search](https://www.google.com/search?q=building+rest+api+with+node.js+and+mysql&rlz=1C1GCEA_enUS900US900&oq=make+restapi+with+node&aqs=chrome.3.69i57j0i22i30l4j69i64l3.9537j0j1&sourceid=chrome&ie=UTF-8)
+  * [Build Node.js Rest APIs with Express & MySQL - BezKoder](https://www.bezkoder.com/node-js-rest-api-express-mysql/)
+  * [Build a REST API with Node.js, Express, and MySQL](https://blog.logrocket.com/build-rest-api-node-express-mysql/)
+  * [Building a REST API with Node.js, MySQL, and Express](https://arctype.com/blog/rest-api-tutorial/)
+  * [Building REST APIs with MySQL and Node.js - Medium](https://medium.com/@avanthikameenakshi/building-restful-api-with-nodejs-and-mysql-in-10-min-ff740043d4be)
+  * [Build Restful API's With Node.js - Express - MySQL - C# Corner](https://www.c-sharpcorner.com/article/build-restful-apis-with-node-js-express-mysql/)
+* [create rest api with nodejs and mysql - Google Search](https://www.google.com/search?q=create+rest+api+with+nodejs+and+mysql&rlz=1C1GCEA_enUS900US900&oq=make+restapi+with+node&aqs=chrome.2.69i57j0i22i30l4j69i64l3.10299j0j1&sourceid=chrome&ie=UTF-8)
+  * [Build Node.js Rest APIs with Express & MySQL - BezKoder](https://www.bezkoder.com/node-js-rest-api-express-mysql/)
+  * [Build a REST API with Node.js, Express, and MySQL](https://blog.logrocket.com/build-rest-api-node-express-mysql/)
+  * [Building a REST API with Node.js, MySQL, and Express](https://arctype.com/blog/rest-api-tutorial/)
+  * [Building REST APIs with MySQL and Node.js - Medium](https://medium.com/@avanthikameenakshi/building-restful-api-with-nodejs-and-mysql-in-10-min-ff740043d4be)
+* [build rest api node js - Google Search](https://www.google.com/search?q=build+rest+api+node+js&rlz=1C1GCEA_enUS900US900&oq=build+restapi+&aqs=chrome.3.69i57j0i13l4j69i64l3.9713j0j1&sourceid=chrome&ie=UTF-8)
+  * [How to Create a Simple REST API using TypeScript and Node.js | Engineering Education (EngEd) Program | Section](https://www.section.io/engineering-education/how-to-create-a-simple-rest-api-using-typescript-and-nodejs/)
+  * [Creating a Secure REST API in Node.js | Toptal](https://www.toptal.com/nodejs/secure-rest-api-in-nodejs)
+  * [Build Node.js RESTful APIs in 10 Minutes | Codementor](https://www.codementor.io/@olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
+  * [Building a simple REST API with NodeJS and Express. | by Onejohi | Medium](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
